@@ -1,0 +1,27 @@
+http://confOf#hasCity;have city;have;feature;!lack;city;metropolis;urban center;;;;
+;;;;;;;;;;;
+http://confOf#studyAt;study at;study;learn;read;take;;;;;;
+;;;;;;;;;;;
+http://confOf#writes;writes;write;compose;indite;pen;;;;;;
+http://confOf#writtenBy;written by;write;compose;indite;pen;;;;;;
+;;;;;;;;;;;
+http://confOf#hasAdministrativeEvent;have administrative event;have;feature;!lack;administrative;event;;;;;
+;;;;;;;;;;;
+http://confOf#reviewes;reviewes;review;critical review;critique;review article;;;;;;
+;;;;;;;;;;;
+http://confOf#dealsWith;deals with;deal;consider;look at;take;;;;;;
+;;;;;;;;;;;
+http://confOf#employedBy;employed by;employ;engage;hire;;;;;;;
+;;;;;;;;;;;
+http://confOf#hasTopic;have topic;have;feature;!lack;topic;subject;theme;;;;
+;;;;;;;;;;;
+http://confOf#hasCountry;have country;have;feature;!lack;country;body politic;commonwealth;land;nation;res publica;state
+;;;;;;;;;;;
+http://confOf#follows;follows;follow;abide by;comply;;;;;;;
+;;;;;;;;;;;
+http://confOf#parallel_with;parallel with;parallel;analog;analogue;;;;;;;
+;;;;;;;;;;;
+http://confOf#writtenBy;written by;write;compose;indite;pen;;;;;;
+http://confOf#writes;writes;write;compose;indite;pen;;;;;;
+;;;;;;;;;;;
+http://confOf#expertOn;expert on;expert;adept;good;practiced;proficient;skilful;skillful;;;

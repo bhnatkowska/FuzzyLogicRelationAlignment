@@ -1,0 +1,45 @@
+http://sigkdd#submit_until;submit until;submit;accede;bow;defer;give in
+;;;;;;
+http://sigkdd#submit;submit;submit;accede;bow;defer;give in
+;;;;;;
+http://sigkdd#search;search;search;explore;research;;
+http://sigkdd#searched_by;searched by;search;explore;research;;
+;;;;;;
+http://sigkdd#searched_by;searched by;search;explore;research;;
+http://sigkdd#search;search;search;explore;research;;
+;;;;;;
+http://sigkdd#awarded_by;awarded by;award;grant;;;
+http://sigkdd#award;award;award;grant;;;
+;;;;;;
+http://sigkdd#presentation;presentation;presentation;demonstration;presentment;;
+http://sigkdd#presentationed_by;presented by;present;represent;stage;;
+;;;;;;
+http://sigkdd#holded_by;holded by;hold;contain;take;;
+http://sigkdd#hold;hold;hold;contain;take;;
+;;;;;;
+http://sigkdd#designed_by;designed by;design;aim;intent;intention;purpose
+http://sigkdd#design;design;design;aim;intent;intention;purpose
+;;;;;;
+http://sigkdd#notification_until;notification until;notification;apprisal;telling;;
+;;;;;;
+http://sigkdd#pay;pay;pay;;;;
+http://sigkdd#payed_by;payed by;pay;;;;
+;;;;;;
+http://sigkdd#design;design;design;aim;intent;intention;purpose
+http://sigkdd#designed_by;designed by;design;aim;intent;intention;purpose
+;;;;;;
+http://sigkdd#award;award;award;grant;;;
+http://sigkdd#awarded_by;awarded by;award;grant;;;
+;;;;;;
+http://sigkdd#payed_by;payed by;pay;;;;
+http://sigkdd#pay;pay;pay;;;;
+;;;;;;
+http://sigkdd#presentationed_by;presented by;present;represent;stage;;
+http://sigkdd#presentation;presentation;presentation;demonstration;presentment;;
+;;;;;;
+http://sigkdd#can_stay_in;can stay in;stay;continue;remain;stay on;
+;;;;;;
+http://sigkdd#obtain;obtain;obtain;find;get;incur;receive
+;;;;;;
+http://sigkdd#hold;hold;hold;contain;take;;
+http://sigkdd#holded_by;holded by;hold;contain;take;;
