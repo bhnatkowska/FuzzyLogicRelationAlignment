@@ -29,8 +29,8 @@ or
   
  
 It is assumed that:
--- java is visible (on the system path)
--- ontologies have owl extension (which is omitted)
+- java is visible (on the system path)
+- ontologies have owl extension (which is omitted)
 
 The program produces a textual information about found mappings and their probability.
 It also prints some basic measures (accuracy, precision, recall and f-measure) in referene to the benchmark.
