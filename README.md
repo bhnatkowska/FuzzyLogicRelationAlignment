@@ -22,7 +22,9 @@ To run the program
 e.g.
 
   java -jar FuzzyLogic ontology conference ekaw     // concept mapping comes from rdf file
+
 or
+
   java -jar FuzzyLogic ontology conference ekaw -logMap   // concept mapping comes from txt file
   
  
