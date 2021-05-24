@@ -3,6 +3,7 @@ FuzzyLogicRelationAlignment is a repository which contains:
 - FuzzyLogic.jar - a java precompliled program to identify mappings between relations (object properties) of two OWL ontologies;
 - ontology - a folder with ontologies, their mappings and relation semantic definitions
 - fis - a folder with a configuration for fuzzy logic used for relation alignment 
+- Table_III.pdf - results of an experiment in which the tool was used to find up mappings between ontology relations
 
 Ontology folder contains:
 - OWL ontologies (convention: ontology_name.owl)
